@@ -1,0 +1,15 @@
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.AssemblyInfo.cs
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.deps.json
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.dll
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.pdb
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.Models.dll
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.Models.pdb
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.csproj.CopyComplete
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.dll
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\refint\MyApp.DataAccessLayer.dll
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.pdb
+C:\Source\Repos\Projects\Assignmentproject\MyApp.DataAccessLayer\obj\Debug\net6.0\ref\MyApp.DataAccessLayer.dll
